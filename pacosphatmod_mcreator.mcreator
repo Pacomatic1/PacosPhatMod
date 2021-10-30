@@ -1,0 +1,96 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DirtSlab",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_slab",
+      "path": "~/blocks"
+    },
+    {
+      "name": "DirtSlabRecipe1",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_slab_recipe_1",
+      "path": "~/blocks"
+    },
+    {
+      "name": "DirtSlabRecipe2",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_slab_recipe_2",
+      "path": "~/blocks"
+    },
+    {
+      "name": "DirtRecipe1",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_recipe_1",
+      "path": "~/blocks"
+    },
+    {
+      "name": "IronRod",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_rod",
+      "path": "~/items"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.pacosphatmod_mcreator.dirt_slab": "Dirt Slab",
+      "item.pacosphatmod_mcreator.iron_rod": "Iron Rod"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "blocks",
+        "children": []
+      },
+      {
+        "name": "items",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "pacosphatmod_mcreator",
+    "modName": "Paco\u0027s Phat Mod (MCreator)",
+    "version": "1.0.0",
+    "description": "New blocks, items, mobs, cool thing in general.",
+    "author": "Pacomatic",
+    "websiteURL": "https://dboys.ca",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Made with MCreator, made by Paco",
+    "modElementsPackage": "net.mcreator.pacosphatmodmcreator",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

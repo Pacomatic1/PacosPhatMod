@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pacosphatmod_mcreator:block/dirt_slab"
+    },
+    "type=top": {
+      "model": "pacosphatmod_mcreator:block/dirt_slab_top"
+    },
+    "type=double": {
+      "model": "pacosphatmod_mcreator:block/dirt_slab_full"
+    }
+  }
+}

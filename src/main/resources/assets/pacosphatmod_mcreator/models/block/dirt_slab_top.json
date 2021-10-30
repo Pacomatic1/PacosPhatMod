@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "pacosphatmod_mcreator:blocks/dirt",
+    "top": "pacosphatmod_mcreator:blocks/dirt",
+    "side": "pacosphatmod_mcreator:blocks/dirt"
+  }
+}

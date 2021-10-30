@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="pacosphatmod_mcreator"
+version="1.0.0"
+displayName="Paco's Phat Mod (MCreator)"
+credits="Made with MCreator, made by Paco"
+displayURL="https://dboys.ca"
+authors="Pacomatic"
+description='''
+New blocks, items, mobs, cool thing in general.
+'''
+
+[[dependencies.pacosphatmod_mcreator]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
